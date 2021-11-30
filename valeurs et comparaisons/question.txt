@@ -1,0 +1,9 @@
+e = 8
+b = [e,"b","c"].toString()
+
+Que contiendra la variable b :
+
+vrai : '8,b,c'
+faux : 'b,c'
+faux : 'e,b,c'
+faux : e + 'b,c'
